@@ -1,0 +1,66 @@
+{
+  "name": "Costom",
+  "css_prefix_text": "",
+  "css_use_suffix": false,
+  "hinting": true,
+  "units_per_em": 1000,
+  "ascent": 850,
+  "glyphs": [
+    {
+      "uid": "ba203ced702b2bf0736d909b5c08fde8",
+      "css": "我的",
+      "code": 59395,
+      "src": "custom_icons",
+      "selected": true,
+      "svg": {
+        "path": "",
+        "width": 1000
+      },
+      "search": [
+        "我的"
+      ]
+    },
+    {
+      "uid": "04ab68dc96601e6649195527a32c7db2",
+      "css": "信息",
+      "code": 59394,
+      "src": "custom_icons",
+      "selected": true,
+      "svg": {
+        "path": "",
+        "width": 1029
+      },
+      "search": [
+        "信息"
+      ]
+    },
+    {
+      "uid": "274a0e2bcdcffb3e501a5d5899c6a5b8",
+      "css": "悬赏(1)",
+      "code": 59393,
+      "src": "custom_icons",
+      "selected": true,
+      "svg": {
+        "path": "",
+        "width": 1000
+      },
+      "search": [
+        "悬赏(1)"
+      ]
+    },
+    {
+      "uid": "97b4b0bac81fc08c4a53f623165f91c6",
+      "css": "购物(1)",
+      "code": 59392,
+      "src": "custom_icons",
+      "selected": true,
+      "svg": {
+        "path": "",
+        "width": 1030
+      },
+      "search": [
+        "购物(1)"
+      ]
+    }
+  ]
+}
