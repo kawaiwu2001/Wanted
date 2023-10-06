@@ -1,1 +1,0 @@
-Wanted -- Campus-oriented transaction reward platform
