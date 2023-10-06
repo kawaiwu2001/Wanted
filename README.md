@@ -32,3 +32,13 @@ wanted_server: backend of Wanted.<br/>
   </tr>
 </table>
 
+
+<table>
+  <tr>
+    <td>
+<h2>WantedDetailPage</h2>
+<img src="https://github.com/kawaiwu2001/Wanted/blob/master/IMG/IMG_3299.JPG?raw=true" width="200px">
+    </td>
+  </tr>
+</table>
+
