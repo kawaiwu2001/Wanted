@@ -10,9 +10,7 @@ wanted_server: backend of Wanted.<br/>
 <img src="https://github.com/kawaiwu2001/Wanted/blob/master/IMG/IMG_3294.JPG?raw=true" width="200px">
     </td>
     <td>
-      <tr>
-    <td>
-## SignInPage
+<h2>SignInPage</h2>
 <img src="https://github.com/kawaiwu2001/Wanted/blob/master/IMG/IMG_3295.JPG?raw=true" width="200px">
     </td>
   </tr>
