@@ -22,6 +22,7 @@ wanted_server: backend of Wanted.<br/>
 <img src="https://github.com/kawaiwu2001/Wanted/blob/master/IMG/IMG_3296.JPG?raw=true" width="200px">
     </td>
     <td>
+<h2> </h2>
 <img src="https://github.com/kawaiwu2001/Wanted/blob/master/IMG/IMG_3297.JPG?raw=true" width="200px">
     </td>
   </tr>
