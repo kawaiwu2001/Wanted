@@ -124,8 +124,53 @@ wanted_server: backend of Wanted.<br/>
 <table>
   <tr>
     <td>
-<h2>MessagePage</h2>
-<img src="https://github.com/kawaiwu2001/Wanted/blob/master/IMG/IMG_3310.JPG?raw=true" width="200px">
+<h2>MyLeisurePage</h2>
+<img src="https://github.com/kawaiwu2001/Wanted/blob/master/IMG/IMG_3316.JPG?raw=true" width="200px">
     </td>
   </tr>
 </table>
+
+<table>
+  <tr>
+    <td>
+<h2>MyCollectPage</h2>
+<img src="https://github.com/kawaiwu2001/Wanted/blob/master/IMG/IMG_3317.JPG?raw=true" width="200px">
+    </td>
+  </tr>
+</table>
+
+<table>
+  <tr>
+    <td>
+<h2>ChatPage</h2>
+<img src="https://github.com/kawaiwu2001/Wanted/blob/master/IMG/IMG_3306.JPG?raw=true" width="200px">
+    </td>
+    <td>
+<h2> </h2>
+<img src="https://github.com/kawaiwu2001/Wanted/blob/master/IMG/IMG_3307.JPG?raw=true" width="200px">
+    </td>
+    <td>
+<h2> </h2>
+<img src="https://github.com/kawaiwu2001/Wanted/blob/master/IMG/IMG_3308.JPG?raw=true" width="200px">
+    </td>
+  </tr>
+</table>
+
+<table>
+  <tr>
+    <td>
+<h2>ConcernsPage</h2>
+<img src="https://github.com/kawaiwu2001/Wanted/blob/master/IMG/IMG_3315.JPG?raw=true" width="200px">
+    </td>
+  </tr>
+</table>
+
+<table>
+  <tr>
+    <td>
+<h2>ConcernsPage</h2>
+<img src="https://github.com/kawaiwu2001/Wanted/blob/master/IMG/IMG_3315.JPG?raw=true" width="200px">
+    </td>
+  </tr>
+</table>
+
