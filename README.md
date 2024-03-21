@@ -1,4 +1,4 @@
-# Wanted: A cmpus-oriented transaction reward platform
+# Wanted: A campus-oriented transaction reward platform
 ----------------------------------------------
 wanted_new: client of Wanted.<br/>
 wanted_server: backend of Wanted.<br/>
